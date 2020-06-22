@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
 # oldstable, stable, testing, unstable
-BRANCH=testing
+BRANCH=stable
 # base(258M), minbase(217M), buildd, fakechroot
 VAR=minbase
 
